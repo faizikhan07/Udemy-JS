@@ -193,3 +193,4 @@ document.querySelector('.again').addEventListener
 // REFACTORING THE CODE : DRY Principle(Don't Repeat Yourself)
 
 // # PROJECT 2: MODAL WINDOW
+
